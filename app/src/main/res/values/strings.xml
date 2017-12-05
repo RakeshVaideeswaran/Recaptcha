@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recaptcha</string>
+    <string name="recaptcha_site_key">6LePbzsUAAAAADJppR5nnVsJ5D_dHl17dw7SxPF0</string>
+    <string name="recaptcha_secret_key">6LePbzsUAAAAAMQ04OGZGtzl1IoITHSnZt_7VxBK</string>
+</resources>
